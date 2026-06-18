@@ -63,13 +63,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lebogang-G-Masia&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lebogang-G-Masia&radius=16&theme=green&area=true&order=5&bg_color=ffffff&custom_title=Crushing%20it.&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lebogang-G-Masia/Lebogang-G-Masia/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lebogang-G-Masia/Lebogang-G-Masia/output/pacman-contribution-graph.svg">
